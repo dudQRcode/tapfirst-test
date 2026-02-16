@@ -1,1 +1,36 @@
+Tap-First Access – Dual Use Licence
+
+Copyright (c) 2026 DudQR
+
+Permission is granted for free use in:
+
+• Personal projects
+• Educational learning
+• Non-commercial prototypes
+• Open source experiments
+
+Commercial use requires a paid licence.
+
+Commercial use includes (but is not limited to):
+
+• Internal company systems
+• Client-facing tools
+• SaaS platforms
+• Revenue-generating products
+• Institutional or enterprise deployment
+• Educational institutions using this in production systems
+
+You may not:
+
+• Resell Tap-First as your own product
+• Embed Tap-First inside commercial software without licence
+• Remove attribution in commercial environments
+
+For commercial licensing enquiries:
+
+[replace with your contact email]
+
+This licence does not transfer ownership.
+
+All rights reserved.
 
