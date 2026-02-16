@@ -31,7 +31,8 @@
     const qrImg = document.getElementById("tapfirst-qrimg");
     const qrLink = document.getElementById("tapfirst-qrlink");
 
-    if (tapLink) tapLink.href = dest;
+    if (tapLink) { tapLink.href = dest; tapLink.textContent = dest; }
+
     if (tapBtn) tapBtn.href = dest;
 
     if (qrImg) {
@@ -56,3 +57,4 @@
     init();
   }
 })();
+
